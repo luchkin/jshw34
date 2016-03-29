@@ -1,0 +1,28 @@
+* {
+    margin: 0px;
+    /*padding: 0px;*/
+}
+body {
+    background-color: #DCE0EF
+}
+.wraper {
+    margin: 50px auto;
+    width: 500px;
+    height: 400px;
+    background-color: white;
+    border: 1px solid;
+}
+.title {
+    padding: 0px 130px
+}
+.list {
+    margin: 20px 5px;
+}
+.listAnswer {
+    list-style: none;
+}
+.button {
+    height: 40px;
+    width: 200px;
+    margin: 5px 150px
+}
